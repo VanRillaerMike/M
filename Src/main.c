@@ -143,7 +143,8 @@ int main(void)
   MX_USART3_UART_Init();
   /* USER CODE BEGIN 2 */
 
- ////////////////////////////////////////////////////////////
+ 
+
 #ifdef UnlockLEDS
   uint8_t Red = 255;
   uint8_t Green = 255;
